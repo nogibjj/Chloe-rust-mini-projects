@@ -11,4 +11,4 @@ Your choice: head
 Computer's choice: head
 You win!
 ```
-![rule](https://github.com/nogibjj/Chloe-rust-mini-projects/blob/main/week2-head_tail_game/src/Screenshot 2023-01-30 at 11.16.21 PM.png)
+![rule](https://github.com/nogibjj/Chloe-rust-mini-projects/blob/main/week2-head_tail_game/src/Screenshot%202023-01-30%20at%2011.16.21%20PM.png)
