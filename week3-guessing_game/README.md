@@ -28,4 +28,4 @@ You guessed: 76
 You win!
 You guessed 4 times
 ```
-![rule]()
+![rule](https://github.com/nogibjj/Chloe-rust-mini-projects/blob/main/week3-guessing_game/src/Guessing-Game-Pic-full.png)
