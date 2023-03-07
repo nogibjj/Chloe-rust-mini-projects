@@ -1,1 +1,0 @@
-/workspaces/Chloe-rust-mini-projects/week2-head_tail_game/target/debug/headtail: /workspaces/Chloe-rust-mini-projects/week2-head_tail_game/src/lib.rs /workspaces/Chloe-rust-mini-projects/week2-head_tail_game/src/main.rs
