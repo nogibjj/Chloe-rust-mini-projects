@@ -1,0 +1,15 @@
+/workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/deps/markup5ever-d7c7d0afa361ef2b.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/data/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/tree_builder.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/serialize.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/buffer_queue.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/smallcharset.rs /workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/build/markup5ever-28e92eafbe2ba0ec/out/generated.rs /workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/build/markup5ever-28e92eafbe2ba0ec/out/named_entities.rs
+
+/workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/deps/markup5ever-d7c7d0afa361ef2b.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/data/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/tree_builder.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/serialize.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/buffer_queue.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/smallcharset.rs /workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/build/markup5ever-28e92eafbe2ba0ec/out/generated.rs /workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/build/markup5ever-28e92eafbe2ba0ec/out/named_entities.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/data/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/tree_builder.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/serialize.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/buffer_queue.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/smallcharset.rs:
+/workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/build/markup5ever-28e92eafbe2ba0ec/out/generated.rs:
+/workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/build/markup5ever-28e92eafbe2ba0ec/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/workspaces/Chloe-rust-mini-projects/week5-extract-links/target/debug/build/markup5ever-28e92eafbe2ba0ec/out
