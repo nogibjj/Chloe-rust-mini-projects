@@ -1,6 +1,6 @@
 # Rust Weekly Projects Report
 
-- Build weekly Rust Projects into this repository
+- Build and Push weekly Rust Projects into this repository
 
 ![image](https://user-images.githubusercontent.com/104106034/236558308-2836e06d-e88b-4d1f-ba1b-c406c8e7daea.png)
 
